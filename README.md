@@ -12,8 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Authors](#authors)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Zenscape - A Game Build With Unity
