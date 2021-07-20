@@ -1,5 +1,5 @@
 # Zenscape - A Game Build With Unity
-
+<a href='https://play.google.com/store/apps/details?id=com.Teknack.Zenscape&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200"/></a>
 ## Table of contents
 
 - [Overview](#overview)
@@ -30,13 +30,9 @@ Download and play to enjoy the thrilling and action packed adventure of zen.
 
 ### Screenshots
 
-![](./screenshots/1.jpg)
-![](./screenshots/2.jpg)
-![](./screenshots/3.jpg)
-![](./screenshots/4.jpg)
-![](./screenshots/5.jpg)
-![](./screenshots/6.jpg)
-
+<img src="./screenshots/1.jpg" width="47%"  /> <img src="./screenshots/2.jpg" width="47%"  />
+<img src="./screenshots/3.jpg" width="47%"  /> <img src="./screenshots/4.jpg" width="47%"  />
+<img src="./screenshots/5.jpg" width="47%"  /> <img src="./screenshots/6.jpg" width="47%"  />
 
 ### Built with
 
