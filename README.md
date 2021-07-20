@@ -34,12 +34,12 @@ Download and play to enjoy the thrilling and action packed adventure of zen.
 
 ### Screenshots
 
-![](./1.jpg)
-![](./2.jpg)
-![](./3.jpg)
-![](./4.jpg)
-![](./5.jpg)
-![](./6.jpg)
+![](./screenshots/1.jpg)
+![](./screenshots/2.jpg)
+![](./screenshots/3.jpg)
+![](./screenshots/4.jpg)
+![](./screenshots/5.jpg)
+![](./screenshots/6.jpg)
 
 
 ### Built with
