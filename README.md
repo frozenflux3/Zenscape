@@ -35,16 +35,22 @@ Download and play to enjoy the thrilling and action packed adventure of zen.
 <img src="./screenshots/5.jpg" width="47%"  /> <img src="./screenshots/6.jpg" width="47%"  />
 
 ### Built with
-
-- Unity
-- C#
-- Illustrator
-- Photoshop
+![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Authors
+ - Hayden Cordeiro   
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haydencordeiro/)
+ [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haydencordeiro)  
+ - Jivin Varghese  
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/JivinVarghese)
+ [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JivinVarghese)  
+ - Ruvin Rodrigues  
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/)
+ [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
 
- - Hayden Cordeiro   [Linkedin](https://github.com/haydencordeiro)  [Github](www.linkedin.com/in/haydencordeiro) 
- - Jivin Varghese   [Linkedin](https://github.com/JivinVarghese)  [Github](www.linkedin.com/in/jivinvarghese) 
 
 
 
